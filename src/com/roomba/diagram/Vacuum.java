@@ -16,11 +16,4 @@ public class Vacuum extends components {
 	
 	public boolean suction;
 	
-	
-
-	
-	
-
-
-
 }

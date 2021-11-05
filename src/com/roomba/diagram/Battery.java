@@ -13,6 +13,7 @@ public class Battery extends components {
 	private double batteryLife; 
 	private double chargingTime;
 	
+	
 	public void recharge() {}
 	public void replace() {}
 

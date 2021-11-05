@@ -22,7 +22,6 @@ public class IrobotRoomba {
 	public boolean wifiCommunication ;
 	public boolean vslam;
 	
-	
 
 	/**
 	 * @param args
