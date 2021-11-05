@@ -9,7 +9,9 @@ public class ChargingDock {
 	
 /**charges =  % charged */
 	
-	public int charges;
+	public int charges() {
+		return 0;
+		}
 	public void stores() {}
 	public boolean signalsForLocation;
 	

@@ -10,7 +10,6 @@ package com.roomba.diagram;
 public class IrobotRoomba {
 	
 	private double size;
-	system.println '24inc'
 	private double wheels;
 	private String color;
 	private int speed;
