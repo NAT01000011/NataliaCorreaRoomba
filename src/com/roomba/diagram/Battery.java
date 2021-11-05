@@ -15,6 +15,7 @@ public class Battery extends components {
 	
 	public void recharge() {}
 	public void replace() {}
+
 	
 
 }

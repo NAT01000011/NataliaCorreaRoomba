@@ -15,4 +15,5 @@ public class Camera extends components {
 	public boolean createsMap;
 	
 	
+	
 }

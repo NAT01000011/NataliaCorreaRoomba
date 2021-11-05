@@ -23,8 +23,6 @@ public class IrobotRoomba {
 	public boolean vslam;
 	
 	
-	
-	
 
 	/**
 	 * @param args

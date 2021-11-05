@@ -13,10 +13,12 @@ public class Sensors extends components {
 	private boolean floorTracking ;
 	private boolean infraredCliffSensor;
 	
+	
 	public boolean detectCarpet;
 	public boolean detectDirt;
 	public boolean detectFloorLevel;
 	public boolean detectFullDustBin; 
 	
 
+	
 }
