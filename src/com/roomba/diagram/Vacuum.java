@@ -15,5 +15,6 @@ public class Vacuum extends components {
 	private void brushes() {}
 	
 	public boolean suction;
+	public boolean detectDirt;
 	
 }

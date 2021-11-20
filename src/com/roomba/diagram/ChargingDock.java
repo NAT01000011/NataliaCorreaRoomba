@@ -10,8 +10,9 @@ public class ChargingDock {
 /**charges =  % charged */
 	
 	public int charges;
-	public void stores() {}
-	public boolean signalsForLocation;
+	public void storeRoomba() {}
+	public boolean signalForLocation;
+	
 	
 	
 

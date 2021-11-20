@@ -12,7 +12,10 @@ public class MobileApp {
 	public boolean scheduleCleaning;
 	public boolean scheduleMaintenance;
 	public void remoteController() {}
-	public boolean sendsCommands ;
+	public boolean sendCommands ;
+	public boolean syncWithRoomba;
+	public boolean powerOnRoomba ;
+	public boolean powerOffRoomba ;
 	
 	
 	
